@@ -1,3 +1,40 @@
 @charset "UTF-8";
 
 body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
+/* BOXA */
+.boxA  {background-color: #696969}
+.boxA:after  {content: "";
+              display: block;
+              clear: both}
+
+.box1  {float: left;
+        width: 50%}
+
+.box2  {float: left;
+        width: 50%}
+
+/* box3 */
+/* box4 */
+/* box5 */
+/* box6 */
+/* box7 */
+/* box8 */
+/* box9 */
+/* box10 */
+/* box11 */
+/* box12 */
+
+/* BOXB */
+.boxB  {background-color: #696969}
+.boxB:after  {content: "";
+              display: block;
+              clear: both}
+
+.box13  {float: left;
+         width: 33.3333%}
+
+.box14  {float: left;
+         width: 33.3333%}
+
+.box14  {float: left;
+         width: 33.3333%}
