@@ -44,12 +44,41 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 .sns-menu li  {float: left;
                width: auto}
 
-/* box3 *//* ヘッダー画像 */
+/* box3 */
+/* ヘッダー画像 */
 .topimg  {max-width: 100%;
           height: auto;
           vertical-align: bottom}
 
+.big-bg  {background-size: cover;
+          background-position: center top}
+#home  {background-image: url(../img/heder.jpg);
+        min-height: 100vh}
+#home .page-title  {txet-transform: none}
+
+
 /* box4 */
+.boxA  {background-color: #ffffff}
+/* MAIN-MENU */
+.main-nav ul  {margin: 0;
+               padding: 0;
+               list-style: none}
+
+.main-nav li a  {display: block;
+                 padding: 5px;
+                 color: #000000;
+                 font-size: 14px;
+                 text-decoration: none}
+
+.main-nav li a:hover  {background-color: #dcdcdc}
+
+.main-nav ul:after  {content: "";
+                     display: block;
+                     clear: both}
+
+.main-nav li  {float: center;
+               width: auto}
+
 /* box5 */
 /* box6 */
 /* box7 */
