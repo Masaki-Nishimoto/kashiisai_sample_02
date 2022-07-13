@@ -29,7 +29,7 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
                      display: block;
                      clear: both}
 
-.sns-menu li  {float: left;
+.sns-menu li  {float: right;
                width: auto}
 
 /* BOXA */
