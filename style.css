@@ -24,6 +24,15 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 .site p  {margin: 0;
           font-size: 20px}
 
+/* BOX4 */
+.box4  {background-color: #ffffff}
+.box4:after  {content: "";
+              display: block;
+              clear: both}
+
+.box4  {float: right;
+        width: auto}
+        
 /* SNS-MENU */
 .sns-menu ul  {margin: 0;
                padding: 0;
