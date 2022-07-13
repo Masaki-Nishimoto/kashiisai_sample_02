@@ -74,7 +74,22 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
                width: auto}
 
 /* box5 */
+
 /* box6 */
+.box6  {background-color: #c0c0c0}
+/* ABOUT */
+.box1A  {background-color: #ffffff}
+.about h1  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 40px}
+
+.about h2  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 36px}
+
+.about p  {margin-top: 0;
+           margin-bottom: 20px}
+
 /* box7 */
 /* box8 */
 /* box9 */
