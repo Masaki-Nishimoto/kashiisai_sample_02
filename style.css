@@ -50,15 +50,9 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
           height: auto;
           vertical-align: bottom}
 
-.big-bg  {background-size: cover;
-          background-position: center top}
-#home  {background-image: url(../img/heder.jpg);
-        min-height: 100vh}
-#home .page-title  {txet-transform: none}
-
-
 /* box4 */
 .boxA  {background-color: #ffffff}
+
 /* MAIN-MENU */
 .main-nav ul  {margin: 0;
                padding: 0;
@@ -76,7 +70,7 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
                      display: block;
                      clear: both}
 
-.main-nav li  {float: center;
+.main-nav li  {float: left;
                width: auto}
 
 /* box5 */
