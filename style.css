@@ -33,7 +33,8 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
                width: auto}
 
 /* BOXA */
-.boxA  {background-color: #696969;}
+.boxA  {background-color: #696969;
+        height: 40px}
 .boxA:after  {content: "";
               display: block;
               clear: both}
