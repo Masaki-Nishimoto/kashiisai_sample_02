@@ -2,6 +2,18 @@
 
 body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 
+/* BOXA */
+.boxA  {background-color: #696969}
+.boxA:after  {content: "";
+              display: block;
+              clear: both}
+
+.box1  {float: left;
+        width: auto}
+
+.box2  {float: right;
+        width: auto}
+
 /* サイト名　*/
 .site h1 a  {color: #000000;
              text-decoration: none}
@@ -32,19 +44,10 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 .sns-menu li  {float: left;
                width: auto}
 
-/* BOXA */
-.boxA  {background-color: #696969}
-.boxA:after  {content: "";
-              display: block;
-              clear: both}
-
-.box1  {float: left;
-        width: auto}
-
-.box2  {float: right;
-        width: auto}
-
-/* box3 */
+/* box3 *//* ヘッダー画像 */
+.topimg  {max-width: 100%;
+          height: auto;
+          vertical-align: bottom}
 
 /* box4 */
 /* box5 */
