@@ -7,10 +7,10 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
              text-decoration: none}
 
 .site h1  {margin: 0;
-           font-size: 35px}
+           font-size: 40px}
 
 .site p  {margin: 0;
-          font-size: 15px}
+          font-size: 20px}
 
 /* SNS-MENU */
 .sns-menu ul  {margin: 0;
@@ -33,21 +33,16 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
                width: auto}
 
 /* BOXA */
-.boxA  {background-color: #696969;
-        height: 60px}
+.boxA  {background-color: #696969;}
 .boxA:after  {content: "";
               display: block;
               clear: both}
 
 .box1  {float: left;
-        height: 60px;
-        width: 50%
-        padding: 20px}
+        width: 50%}
 
 .box2  {float: left;
-        height: 60px;
-        width: 50%
-      }
+        width: 50%}
 
 /* box3 */
 /* box4 */
