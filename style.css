@@ -24,7 +24,6 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 .site p  {margin: 0;
           font-size: 20px}
 
-/* BOX4 */
 /* SNS-MENU */
 .sns-menu ul  {margin: 0;
                padding: 0;
@@ -76,6 +75,7 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 
 /* box5 */
 
+/* ABOUT */
 /* ボックスの色と高さ */
 /* boxB */
 .boxB  {background-color: #c0c0c0}
@@ -85,7 +85,6 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 /* box1A */
 .boxB .box1A  {background-color: #ffffff;
                line-height: 100px}
-
 /* ボックスを重ねる設定 */
 .boxB  {position: relative}
 .box1A  {position: absolute;
@@ -103,7 +102,7 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 .about p  {margin-top: 0;
            margin-bottom: 20px}
 
-/* box7 */
+/* NEWS */
 /* ボックスの色と高さ */
 /* boxC */
 .boxC  {background-color: #dcdcdc}
@@ -113,7 +112,6 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 /* box1B */
 .boxC .box1B  {background-color: #ffffff;
                line-height: 100px}
-
 /* ボックスを重ねる設定 */
 .boxC  {position: relative}
 .box1B  {position: absolute;
@@ -131,8 +129,60 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 .about p  {margin-top: 0;
            margin-bottom: 20px}
 
-/* box8 */
-/* box9 */
+/* EVENT */
+/* ボックスの色と高さ */
+/* box */
+.boxD  {background-color: #c0c0c0}
+/* box6 */
+.boxD .box8  {background-color: #c0c0c0;
+              line-height: 200px}
+/* box1A */
+.boxD .box1C  {background-color: #ffffff;
+               line-height: 100px}
+/* ボックスを重ねる設定 */
+.boxD  {position: relative}
+.box1C  {position: absolute;
+         top: 50px;
+         left: 200px}
+
+.about h1  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 40px}
+
+.about h2  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 36px}
+
+.about p  {margin-top: 0;
+           margin-bottom: 20px}
+
+/* GUEST */
+/* ボックスの色と高さ */
+/* boxC */
+.boxE  {background-color: #dcdcdc}
+/* box7 */
+.boxE .box9  {background-color: #dcdcdc;
+              line-height: 200px}
+/* box1B */
+.boxE .box1D  {background-color: #ffffff;
+               line-height: 100px}
+/* ボックスを重ねる設定 */
+.boxE  {position: relative}
+.box1D  {position: absolute;
+         top: 50px;
+         left: 200px}
+
+.about h1  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 40px}
+
+.about h2  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 36px}
+
+.about p  {margin-top: 0;
+           margin-bottom: 20px}
+
 /* box10 */
 /* box11 */
 /* box12 */
