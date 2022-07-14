@@ -104,6 +104,33 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
            margin-bottom: 20px}
 
 /* box7 */
+/* ボックスの色と高さ */
+/* boxC */
+.boxC  {background-color: #dcdcdc}
+/* box7 */
+.boxC .box7  {background-color: #dcdcdc;
+              line-height: 200px}
+/* box1B */
+.boxC .box1B  {background-color: #ffffff;
+               line-height: 100px}
+
+/* ボックスを重ねる設定 */
+.boxC  {position: relative}
+.box1B  {position: absolute;
+         top: 50px;
+         left: 200px}
+
+.about h1  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 40px}
+
+.about h2  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 36px}
+
+.about p  {margin-top: 0;
+           margin-bottom: 20px}
+
 /* box8 */
 /* box9 */
 /* box10 */
