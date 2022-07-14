@@ -81,16 +81,16 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 .boxB  {background-color: #c0c0c0}
 /* box6 */
 .boxB .box6  {background-color: #c0c0c0;
-              line-height: 100px}
+              line-height: 200px}
 /* box1A */
 .boxB .box1A  {background-color: #ffffff;
-               line-height: 50px}
+               line-height: 100px}
 
 /* ボックスを重ねる設定 */
 .boxB  {position: relative}
 .box1A  {position: absolute;
-         top: 25px;
-         left: 100px}
+         top: 50px;
+         left: 200px}
 
 .about h1  {margin-top: 0;
             margin-bottom: 20px;
