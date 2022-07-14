@@ -76,10 +76,22 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 
 /* box5 */
 
+/* ボックスの色と高さ */
+/* boxB */
+.boxB  {background-color: #c0c0c0}
 /* box6 */
-.box6  {background-color: #c0c0c0}
-/* ABOUT */
-.box1A  {background-color: #ffffff}
+.boxB .box6  {background-color: #c0c0c0;
+              line-height: 200px}
+/* box1A */
+.boxB .box1A  {background-color: #ffffff;
+               line-height: 100px}
+
+/* ボックスを重ねる設定 */
+.boxB  {position: relative}
+.box1A  {position: absolute;
+         top: 50px;
+         left: 60px}
+
 .about h1  {margin-top: 0;
             margin-bottom: 20px;
             font-size: 40px}
