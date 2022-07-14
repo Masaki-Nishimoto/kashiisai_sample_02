@@ -183,9 +183,86 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 .about p  {margin-top: 0;
            margin-bottom: 20px}
 
-/* box10 */
-/* box11 */
-/* box12 */
+/* ACCESS */
+/* ボックスの色と高さ */
+/* boxB */
+.boxF  {background-color: #c0c0c0}
+/* box6 */
+.boxF .box10  {background-color: #c0c0c0;
+              line-height: 200px}
+/* box1A */
+.boxF .box1E  {background-color: #ffffff;
+               line-height: 100px}
+/* ボックスを重ねる設定 */
+.boxF  {position: relative}
+.box1E  {position: absolute;
+         top: 50px;
+         left: 200px}
+
+.about h1  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 40px}
+
+.about h2  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 36px}
+
+.about p  {margin-top: 0;
+           margin-bottom: 20px}
+
+/* PAST */
+/* ボックスの色と高さ */
+/* boxC */
+.boxG  {background-color: #dcdcdc}
+/* box7 */
+.boxG .box11  {background-color: #dcdcdc;
+              line-height: 200px}
+/* box1B */
+.boxG .box1F  {background-color: #ffffff;
+               line-height: 100px}
+/* ボックスを重ねる設定 */
+.boxG  {position: relative}
+.box1F  {position: absolute;
+         top: 50px;
+         left: 200px}
+
+.about h1  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 40px}
+
+.about h2  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 36px}
+
+.about p  {margin-top: 0;
+           margin-bottom: 20px}
+
+/* SNS */
+/* ボックスの色と高さ */
+/* box */
+.boxH  {background-color: #c0c0c0}
+/* box6 */
+.boxH .box12  {background-color: #c0c0c0;
+              line-height: 200px}
+/* box1A */
+.boxH .box1G  {background-color: #ffffff;
+               line-height: 100px}
+/* ボックスを重ねる設定 */
+.boxH  {position: relative}
+.box1G  {position: absolute;
+         top: 50px;
+         left: 200px}
+
+.about h1  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 40px}
+
+.about h2  {margin-top: 0;
+            margin-bottom: 20px;
+            font-size: 36px}
+
+.about p  {margin-top: 0;
+           margin-bottom: 20px}
 
 /* BOXB */
 .boxB  {background-color: #696969}
