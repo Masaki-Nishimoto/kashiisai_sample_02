@@ -46,9 +46,11 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
 
 /* box3 */
 /* ヘッダー画像 */
-.topimg  {max-width: 100%;
+.topimg  {max-width: auto;
           height: auto;
           vertical-align: bottom}
+/* 中央に配置する */
+figure.photo-center  {text-align: center}
 
 /* box4 */
 .box4  {background-color: #ffffff}
@@ -84,7 +86,8 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
               line-height: 200px}
 /* box1A */
 .boxB .box1A  {background-color: #ffffff;
-               line-height: 100px}
+               line-height: 100px;
+               width: 900px}
 /* ボックスを重ねる設定 */
 .boxB  {position: relative}
 .box1A  {position: absolute;
@@ -111,7 +114,8 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
               line-height: 200px}
 /* box1B */
 .boxC .box1B  {background-color: #ffffff;
-               line-height: 100px}
+               line-height: 100px;
+               width: 900px}
 /* ボックスを重ねる設定 */
 .boxC  {position: relative}
 .box1B  {position: absolute;
@@ -138,7 +142,8 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
               line-height: 200px}
 /* box1A */
 .boxD .box1C  {background-color: #ffffff;
-               line-height: 100px}
+               line-height: 100px;
+               width: 900px}
 /* ボックスを重ねる設定 */
 .boxD  {position: relative}
 .box1C  {position: absolute;
@@ -165,7 +170,8 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
               line-height: 200px}
 /* box1B */
 .boxE .box1D  {background-color: #ffffff;
-               line-height: 100px}
+               line-height: 100px;
+               width: 900px}
 /* ボックスを重ねる設定 */
 .boxE  {position: relative}
 .box1D  {position: absolute;
@@ -192,7 +198,8 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
               line-height: 200px}
 /* box1A */
 .boxF .box1E  {background-color: #ffffff;
-               line-height: 100px}
+               line-height: 100px;
+               width: 900px}
 /* ボックスを重ねる設定 */
 .boxF  {position: relative}
 .box1E  {position: absolute;
@@ -219,7 +226,8 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
               line-height: 200px}
 /* box1B */
 .boxG .box1F  {background-color: #ffffff;
-               line-height: 100px}
+               line-height: 100px;
+               width: 900px}
 /* ボックスを重ねる設定 */
 .boxG  {position: relative}
 .box1F  {position: absolute;
@@ -246,7 +254,8 @@ body  {font-family: 'メイリオ','Hiragino Kaku Gothic Pro',sans-serif}
               line-height: 200px}
 /* box1A */
 .boxH .box1G  {background-color: #ffffff;
-               line-height: 100px}
+               line-height: 100px;
+               width: 900px}
 /* ボックスを重ねる設定 */
 .boxH  {position: relative}
 .box1G  {position: absolute;
